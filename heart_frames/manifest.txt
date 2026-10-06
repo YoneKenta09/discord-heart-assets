@@ -1,3 +1,9 @@
-renderer=2
-size=1024
-frames=30
+renderer=character-top-reveal-v5
+source=C:\Users\Kenta\OneDrive - SIT\デスクトップ\discord_display\character_source.png
+source_size=216837
+source_mtime=1791290589269959200
+image_size=1024
+duration=1800
+frame_seconds=30
+frames=60
+prefix=heart
