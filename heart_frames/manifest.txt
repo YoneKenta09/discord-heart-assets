@@ -1,9 +1,10 @@
-renderer=character-top-reveal-v7-large
+renderer=character-top-reveal-v8-start
 source=C:\Users\Kenta\OneDrive - SIT\デスクトップ\discord_display\character_source.png
 source_size=216837
 source_mtime=1791290589269959200
 image_size=1024
 image_margin_ratio=0.03
+initial_reveal_ratio=0.16
 duration=1800
 frame_seconds=30
 frames=60
